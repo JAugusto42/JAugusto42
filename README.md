@@ -3,6 +3,6 @@
 ## Hi 👋, 
 I'm Jose Augusto, I'm a Full Stack developer 👨‍💻 who is passionate about write good code in ruby. 
 
-- 🔭 I’m currently working Ruby on Rails stack, with coffescript.
-- 🌱 I’m currently learning Golang, Rust and others techs
+- 🔭 I’m currently working Ruby on Rails stack, in love with coffescript.
+- 🌱 I’m currently learning Golang and Rust.
 -  ⚡ Technologies: Linux, Ruby, Python, Docker
