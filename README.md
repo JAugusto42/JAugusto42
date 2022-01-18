@@ -3,6 +3,6 @@
 ## Hi 👋
 I'm Jose Augusto, I'm a Backend developer 👨‍💻 passionate about write good code in ruby.
 
-- 🔭 I’m currently working with Ruby on Rails as a backend engineer.
+- 🔭 I’m currently working with Ruby on Rails as a backend engineer at yapay/locaweb.
 - 🌱 I’m currently learning Golang and Rust.
 - ⚡ Technologies i use daily: Linux, Docker, git, ruby and rails.
