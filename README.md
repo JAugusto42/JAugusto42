@@ -3,6 +3,6 @@
 ## Hi 👋
 I'm Jose Augusto, I'm a Backend developer 👨‍💻 passionate about write good code in ruby.
 
-- 🔭 I’m currently working with Ruby on Rails as a backend engineer at youse (by meta).
-- 🌱 I’m currently learning Golang and Rust.
+- 🔭 I’m currently working with Ruby on Rails as a backend engineer at Conviso Application Security.
+- 🌱 I’m currently learning Rust and now I'm back to studying application security.
 - ⚡ Technologies i use daily: Linux, Docker, git, ruby and rails, rspec for unit test, sidekiq and rabbitmq.
