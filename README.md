@@ -6,3 +6,5 @@ I'm Jose Augusto, I'm a Backend developer 👨‍💻 passionate about write goo
 - 🔭 I’m currently working with Ruby on Rails as a backend engineer at Conviso Application Security.
 - 🌱 I’m currently learning Rust and now I'm back to studying application security.
 - ⚡ Technologies i use daily: Linux, Docker, git, ruby and rails, rspec for unit test, sidekiq and rabbitmq.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAugusto42)](https://github.com/JAugusto42/github-readme-stats)
