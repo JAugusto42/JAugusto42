@@ -5,7 +5,7 @@
 I'm a Backend Software Engineer 👨‍💻 passionate about writing clean, secure, and efficient code. I have a strong focus on application security and building robust backend systems.
 
 ### 🚀 About Me
-- 🔭 I’m currently working as a Backend Engineer at **Conviso Application Security**, building features mainly with **Ruby on Rails**.
+- 🔭 I’m currently working as a Backend Engineer at **Conviso Application Security**, building features mainly with **Ruby on Rails**, **NestJS**, and **Python**.
 - 🛡️ Deeply interested in **AppSec**, exploring code security, and building scanning tools.
 - 🌱 Currently learning **Rust** and continually expanding my knowledge in Application Security.
 - 🏗️ **Architecture & APIs:** Strong experience in refactoring and building **GraphQL** and **RESTful** APIs.
