@@ -8,8 +8,8 @@ I'm a Backend Software Engineer 👨‍💻 passionate about writing clean, secu
 - 🔭 I’m currently working as a Backend Engineer at **Conviso Application Security**, building features mainly with **Ruby on Rails**.
 - 🛡️ Deeply interested in **AppSec**, exploring code security, and building scanning tools.
 - 🌱 Currently learning **Rust** and continually expanding my knowledge in Application Security.
-- 🏗️ **Architecture & APIs:** Strong experience in refactoring and building **GraphQL** APIs and implementing secure session management.
-- ⚡ **Stack & Tools:** Ruby on Rails, Go, NestJS, Python, Linux, Docker, Git.
+- 🏗️ **Architecture & APIs:** Strong experience in refactoring and building **GraphQL** and **RESTful** APIs.
+- ⚡ **Stack & Tools:** Ruby on Rails, Go, NestJS, Python, Elixir, Linux, Docker, Git.
 - ⚙️ **Testing & Async:** RSpec, Sidekiq, RabbitMQ.
 
 ### 🛠️ What I'm building
