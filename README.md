@@ -1,10 +1,15 @@
-# Jose Augusto
-[![Linkedin Badge](https://img.shields.io/badge/-Jose_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/joseaugustodev/)](https://www.linkedin.com/in/joseaugustodev/)
-## Hi 👋
-I'm Jose Augusto, I'm a Backend developer 👨‍💻 passionate about write good code in ruby.
+# Hi there! I'm Jose Augusto 👋
 
-- 🔭 I’m currently working with Ruby on Rails as a backend engineer at Conviso Application Security.
-- 🌱 I’m currently learning Rust and now I'm back to studying application security.
-- ⚡ Technologies i use daily: Linux, Docker, git, ruby and rails, rspec for unit test, sidekiq and rabbitmq.
+[![Linkedin Badge](https://img.shields.io/badge/-Jose_Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseaugustodev/)](https://www.linkedin.com/in/joseaugustodev/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAugusto42)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Backend Software Engineer 👨‍💻 passionate about writing clean, secure, and efficient code. I have a strong focus on application security and building robust backend systems.
+
+### 🚀 About Me
+- 🔭 I’m currently working as a Backend Engineer at **Conviso Application Security**, building features mainly with **Ruby on Rails**.
+- 🛡️ Deeply interested in **AppSec**, exploring code security, and building scanning tools.
+- 🌱 Currently learning **Rust** and continually expanding my knowledge in Application Security.
+- ⚡ **Stack & Tools:** Ruby on Rails, Go, NestJS, Linux, Docker, Git.
+- ⚙️ **Testing & Asynchronous processing:** RSpec, Sidekiq, RabbitMQ.
+
+### 📊 GitHub Stats
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAugusto42&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
