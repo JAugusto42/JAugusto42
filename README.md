@@ -17,4 +17,4 @@ I'm a Backend Software Engineer 👨‍💻 passionate about writing clean, secu
 - **AI Workflows:** Utilizing Generative AI to optimize secure coding environments and pentest configurations.
 
 ### 📊 GitHub Stats
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAugusto42&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jose's GitHub stats](https://github-stats-extended.vercel.app/api?username=JAugusto42)](https://github.com/stats-organization/github-stats-extended)
