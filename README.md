@@ -4,7 +4,7 @@
              | () () |               . OS: ........................ Linux / macOS
               \  _  /                . Role: ...................... Backend Security Engineer
                /'---'\               . Host: ...................... Conviso Application Security
-              /|     |\              . Uptime: .................... 20+ years
+              /|     |\              . Uptime: .................... 12+ years
              / |     | \             . Terminal: .................. zsh, tmux
             *  |     |  *            
                |     |               . Languages: ................. Ruby, Elixir, Go, Python, Rust
